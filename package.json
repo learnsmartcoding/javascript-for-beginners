@@ -1,0 +1,14 @@
+{
+  "name": "js-demo-code",
+  "version": "1.0.0",
+  "description": "JS Demo code",
+  "main": "script.js",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "LearnSmartCoding",
+  "license": "MIT",
+  "devDependencies": {
+    "lite-server": "^2.5.4"
+  }
+}
